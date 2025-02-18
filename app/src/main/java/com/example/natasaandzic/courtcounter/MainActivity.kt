@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     private var scoreA = 0
     private var scoreB = 0
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
